@@ -18,4 +18,17 @@ public class MyTest {
         User user = mapper.findUser("haohao", "haohao");
         System.out.println(user);
     }
+
+    @Test
+    public void test1(){
+        System.out.println("hello git!!!!");
+        System.out.println("hello git!!!!");
+        System.out.println("hello git!!!!");
+        System.out.println("hello git!!!!");
+        System.out.println("hello git!!!!");
+        System.out.println("hello git!!!!");
+        System.out.println("hello git!!!!");
+        System.out.println("hello git!!!!");
+    }
+
 }
